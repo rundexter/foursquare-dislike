@@ -15,5 +15,5 @@
     ],
     //Required. Outputs the module emits.
     "outputs": [],
-    "title": "Foursquare Like" /* Required.A display name for the module */
+    "title": "Foursquare Dislike" /* Required.A display name for the module */
 }
